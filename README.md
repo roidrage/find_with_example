@@ -9,6 +9,10 @@ model object:
 
 Will find all records matching the data.
 
+Install using
+
+    script/plugin install git://github.com/mattmatt/resource_controller.git
+
 Just for fun.
 
 License
