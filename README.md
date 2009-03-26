@@ -9,6 +9,10 @@ model object:
 
 Will find all records matching the data.
 
+Install using
+
+    script/plugin install git://github.com/mattmatt/find_with_example.git
+
 Just for fun.
 
 License
